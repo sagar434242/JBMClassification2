@@ -3,7 +3,7 @@
 
 ## Guide to use Project
 
-#### Copy the contents of JBMData (Drive Link) attached with mail inside `./JBMClassiffication2/`
+#### Copy the contents of JBMData (Drive Link) attached with mail inside `./JBMClassification2/`
 
 ###  Training Classifier
 The folder  './JBMClassification2' contains subfolder YE358311_Healthy & YE358311_defects which has dataset
