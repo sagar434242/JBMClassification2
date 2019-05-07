@@ -3,7 +3,7 @@
 
 ## Guide to use Project
 
-#### Unzip the contents of JBMData.zip attached with mail inside `./JBMClassificatrion2/`
+#### Unzip the contents of JBMData (Drive Link) attached with mail inside `./JBMClassificatrion2/`
 
 ###  Training Classifier
 The folder  './JBMClassification2' contains subfolder YE358311_Healthy & YE358311_defects which has dataset
