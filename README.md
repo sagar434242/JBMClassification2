@@ -1,5 +1,5 @@
 
-# Classifying Healthy Defected parts
+# Classifying Healthy and Defective parts
 
 ## Guide to use Project
 
