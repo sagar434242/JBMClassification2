@@ -42,4 +42,4 @@ The trained model achieved **~93.55** % accuracy with following parameters :-
 In `./JBMClassificatrion2/` we have following video demo.
 1. `QualityTesterByJBM` A Demo of AI model deployed on the android App
 2. `GuidetoTestNetwork` Guide on how to use test_model.py to predict from saved network.
-3. `TraningRecord`  Screen Capture while traning, Accuracy reaches to 93.55% towards epoch 150
+3. `TraningRecord`  Screen Capture while traning, Accuracy reaches to **93.55%** towards epoch 150
