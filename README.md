@@ -38,7 +38,7 @@ The trained model achieved **~93.55** % accuracy with following parameters :-
 <a href="https://imgflip.com/i/30cbgd"><img width="864" height="288" src="https://i.imgflip.com/30cbgd.jpg" title="made at imgflip.com"/></a>
 </div>
 
-### Deploying App to Smarthone and Cloud
+### Deploying App to Smartphone and on Cloud
 In `./JBMClassificatrion2/` we have following video demo.
 1. `QualityTesterByJBM` A Demo of AI model deployed on the android App
 2. `GuidetoTestNetwork` Guide on how to use test_model.py to predict from saved network.
