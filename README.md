@@ -33,7 +33,7 @@ The trained model achieved **~93.55** % accuracy with following parameters :-
 - Learning Rate = 1e-5 (RMSprop)
 
 <div align="center">
-<a href="https://imgflip.com/i/30cbgd"><img width="270" height="480" src="https://i.imgflip.com/30cbgd.jpg" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/i/30cbgd"><img width="864" height="288" src="https://i.imgflip.com/30cbgd.jpg" title="made at imgflip.com"/></a>
 </div>
 
 ### Deploying App to Smarthone and Cloud
