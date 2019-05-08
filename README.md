@@ -18,7 +18,7 @@ The folder  './JBMClassification2' contains subfolder YE358311_Healthy & YE35831
 Already trained model present in `./JBMClassification2/`  (with name JBM_Classification.h5 )directory can be used for testing on new images. Execute the below command.
 1. Open test_model.py
 2. Cd to JBMClassification2
-3. Modify the path for trained_model_path (`./JBMClassification2/`JBM_Classification.h5), incept_model_path(`./JBMClassification2/incept_model.h5`  ) Line No. 31 & 32
+3. Modify the path for trained_model_path (`./JBMClassification2/JBM_Classification.h5`), incept_model_path(`./JBMClassification2/incept_model.h5`  ) Line No. 31 & 32
 4. Make a Test folder inside the JBMClassification2 and keep test images(Healthy/Defective) inside this folder with image name being test.img Line No. 33 in test_model.py
 
 OR 
